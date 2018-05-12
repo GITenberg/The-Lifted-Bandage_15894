@@ -1,0 +1,29 @@
+_repo: The-Lifted-Bandage_15894
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+description: ''
+gutenberg_issued: '2005-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Judges -- Fiction'
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mental illness -- Fiction'
+title: The Lifted Bandage
+url: http://www.gutenberg.org/ebooks/15894
