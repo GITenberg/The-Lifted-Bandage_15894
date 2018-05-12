@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1687
     wikipedia: http://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15894#The-Lifted-Bandage
 gutenberg_issued: '2005-05-24'
 gutenberg_type: Text
 identifiers:
